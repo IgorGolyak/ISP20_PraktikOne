@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\ZlatoPOLSKI\ZlatoPOLSKI\bin\Debug\ZlatoPOLSKI.exe.config
+C:\Users\golya\source\repos\ZlatoPOLSKI\ZlatoPOLSKI\bin\Debug\ZlatoPOLSKI.exe
+C:\Users\golya\source\repos\ZlatoPOLSKI\ZlatoPOLSKI\bin\Debug\ZlatoPOLSKI.pdb
+C:\Users\golya\source\repos\ZlatoPOLSKI\ZlatoPOLSKI\obj\Debug\ZlatoPOLSKI.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\ZlatoPOLSKI\ZlatoPOLSKI\obj\Debug\ZlatoPOLSKI.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\ZlatoPOLSKI\ZlatoPOLSKI\obj\Debug\ZlatoPOLSKI.exe
+C:\Users\golya\source\repos\ZlatoPOLSKI\ZlatoPOLSKI\obj\Debug\ZlatoPOLSKI.pdb
